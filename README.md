@@ -1,6 +1,4 @@
-![task mang](https://github.com/user-attachments/assets/660c909a-8456-494e-ad1f-2565839f02a4)# task-management
-
-# Ai_ImageGenerator
+# Task-Management
 
 ### [Live Site](https://omart98.github.io/task-management/)
 
